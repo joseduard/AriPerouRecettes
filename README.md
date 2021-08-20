@@ -1,4 +1,5 @@
 # AriPerouRecettes
+
  Site en Responsive Web Design qui regroupera des recettes de cuisine
 
 Travaillons sur la préparation d'un nouveau projet, un site en **Responsive Web Design** qui regroupera des recettes de cuisine. Ici, il s'agit d'un **MVP** (minimum viable product), et donc les fonctionnalités à implémenter dans un premier temps sont assez peu nombreuses.
