@@ -1,4 +1,4 @@
-# AriPerouRecettes
+# AriPerouRecettes - Cahiers de charges
 
  Site en Responsive Web Design qui regroupera des recettes de cuisine
 
@@ -14,10 +14,9 @@ Voici la liste des fonctionnalités attendues sur cette première version :
 - **Sur la page d'accueil :**
 
   - on doit retrouver un edito (un petit paragraphe susceptible de changer de façon hebdomadaire)
-  - on doit trouver un lien vers une recette au hasard. A chaque fois qu'on rafraîchit la page, on affiche une recette différente
-  - il faut afficher une liste des 5 recettes les plus récentes
-  - il faut afficher une liste des 5 recettes les mieux notées
-
+  - on doit trouver un lien vers une liste de 4 recettes au hasard. A chaque fois qu'on rafraîchit la page, on affiche des recettes différentes
+  - il faut afficher une liste des 4 recettes les plus récentes
+  
 - **Dans le pied de page :**
 
   - on veut afficher des liens vers la page de contact, les mentions légales et vers le formulaire permettant de proposer une recette, ainsi qu'une ligne de texte résumant le principe du site et pouvant être utile au référencement (SEO)
@@ -25,6 +24,6 @@ Voici la liste des fonctionnalités attendues sur cette première version :
 - **Sur la page de recette :**
 
   - on doit voir la liste des ingrédients séparée du reste de la recette
-  - on doit voir les étapes de la recette identifiée notamment par un numéro
-
+  - on doit voir les étapes de la recette.
+  
 Étant donné qu'on n'a pas encore de back-office, il n'y a pas de rôle particulier pour chaque fonctionnalité, cela sera vu en V2.
